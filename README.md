@@ -32,6 +32,6 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
         <img src="https://github-readme-stats.vercel.app/api?username=github-ekyungjune&show_icons=true&theme=radical">
-        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=github-ekyungjune)](https://github.com/github-ekyungjune/github-readme-stats"> </div> 
+        <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=github-ekyungjune"> </div> 
     </div>
     
