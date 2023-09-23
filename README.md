@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My name is KyeongJun LEE </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> My Dream is Back_End Developer </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> My dream is Back_End Developer </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -30,7 +30,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
-           </div> 
-    
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-ekyungjune)](https://github.com/깃허브아이디/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/github-ekyungjune/github-readme-stats)</div> 
+    </div>
     
