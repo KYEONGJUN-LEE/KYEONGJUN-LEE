@@ -31,6 +31,6 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-ekyungjune)](https://github.com/깃허브아이디/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/github-ekyungjune/github-readme-stats)</div> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github-ekyungjune)](https://github.com/github-ekyungjune/github-readme-stats)</div> 
     </div>
     
