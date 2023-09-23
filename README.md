@@ -30,7 +30,7 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github-ekyungjune)](https://github.com/github-ekyungjune/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=github-ekyungjune)](https://github.com/github-ekyungjune/github-readme-stats)</div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats (https://github-readme-stats.vercel.app/api/top-langs/?username=github-ekyungjune)](https://github.com/github-ekyungjune/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=github-ekyungjune)](https://github.com/github-ekyungjune/github-readme-stats)</div> 
     </div>
     
