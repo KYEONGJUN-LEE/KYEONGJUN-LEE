@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=c692d9&height=120&text=Welcome%20Github&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=c692d9&height=120&text=Welcome to my %20Github&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My name is KyeongJun LEE </h2>  
