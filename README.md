@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My Name is KyeongJun LEE </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> My Dream is Back_End Developer </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> I want to be Web Developer </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -28,6 +28,14 @@
          <a href=mailto:lkj10009@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkj10009@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
+        ## 🎉Receiving an award🎉
+
+<div align="left">
+  <ul>
+   <li> SCHU LINC 3.0 Day 산학 분야 최우수상</li>   
+   <li> Big Data analysis Development Contest 우수상 </li>
+  </ul>
+</div>
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">
