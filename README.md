@@ -28,7 +28,7 @@
          <a href=mailto:lkj10009@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkj10009@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-        ## 🎉Receiving an award🎉
+        🎉Receiving an award🎉
 
 <div align="left">
   <ul>
