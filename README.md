@@ -28,8 +28,8 @@
          <a href=mailto:lkj10009@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkj10009@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
-        🎉Receiving an award🎉
-
+        
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉Receiving an award🎉 </h2> <br> 
 <div align="left">
   <ul>
    <li> SCHU LINC 3.0 Day 산학 분야 최우수상</li>   
