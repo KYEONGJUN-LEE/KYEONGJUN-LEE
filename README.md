@@ -31,13 +31,13 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚩Experience🚩 </h2> <br> 
 <div align="left">
   <ul>
-      <li>SCH SW 프런티어 1,2기</li>   
+      <li>SCH SW 프런티어 1,2기</li> 
+      <li>2023년도 Operating System Lab 입실</li>
       <li>2023 SCH & ASWANT 글로벌 인턴십 프로그램 참여</li>   
       <li>2023년도 하계 해외 대학 공동 워크숍(캄보디아 왕립프놈펜대학교) 프로그램 참여</li>   
       <li>SCHU LINC 3.0 Day</li>   
-      <li>2023년도 Operating System Lab 입실</li>
-    <li>2023 SCHU AI/SW Festival</li>
-    <li>제 7회 Big Data analysis Development Contest</li>
+      <li>2023 SCHU AI/SW Festival</li>
+      <li>제 7회 Big Data analysis Development Contest</li>
   </ul>
 </div>        
  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎉Receiving an award🎉 </h2> <br> 
