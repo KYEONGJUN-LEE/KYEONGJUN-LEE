@@ -22,7 +22,9 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://kj10009.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kj10009.tistory.com/"> </a>
+    <div align= "center"> <a href="https://velog.io/@kyeongjun/posts">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kyeongjun/posts">
+</a>
          <a href=mailto:lkj10009@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lkj10009@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
